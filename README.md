@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://shabzy1507.github.io/css-challenge-testimonials-grid-section/)
+- Live Site URL: (https://shabzy1507.github.io/css-challenge-testimonials-grid-section/)
 
 ## My process
 
@@ -40,8 +40,8 @@ It took me longer than expected and I'm not sure my code is clean too
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Oyetola sodiq](https://github.com/shabzy1507)
+- Frontend Mentor - [@shabzy1507](https://www.frontendmentor.io/profile/shabzy1507)
+- Twitter - [@shabzy1507](https://twitter.com/Shabzy1507)
 
 
